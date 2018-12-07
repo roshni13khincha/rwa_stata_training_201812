@@ -1,0 +1,9 @@
+\frametitle{\textsc{Edit data in Stata}}
+		\begin{center}
+		\Large\textbf{Delete variables}
+		\end{center}
+		\begin{itemize}
+		\item blah blah
+		\end{itemize}
+
+\begin{stlog}\input{stata_workshop_for_govt_officials_3.log.tex}\end{stlog}

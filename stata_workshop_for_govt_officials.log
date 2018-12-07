@@ -1,0 +1,2403 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.10)  11 AUG 2018 12:59
+entering extended mode
+**C:/Users/Sakina/Documents/GitHub/stata_training_govt_officials/stata_workshop
+_for_govt_officials.tex
+
+(C:/Users/Sakina/Documents/GitHub/stata_training_govt_officials/stata_workshop_
+for_govt_officials.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamer.cls
+"
+Document Class: beamer 2018/02/20 v3.50 A class for typesetting presentations
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+modes.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox
+.sty"
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count81
+\c@beamerpauses=\count82
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+decode.sty"
+\beamer@slideinframe=\count83
+\beamer@minimum=\count84
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count85
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count86
+\beamer@subsubsectionmax=\count87
+\beamer@subsectionmax=\count88
+\beamer@sectionmax=\count89
+\beamer@totalheads=\count90
+\beamer@headcounter=\count91
+\beamer@partstartpage=\count92
+\beamer@sectionstartpage=\count93
+\beamer@subsectionstartpage=\count94
+\beamer@animationtempa=\count95
+\beamer@animationtempb=\count96
+\beamer@xpos=\count97
+\beamer@ypos=\count98
+\beamer@ypos@offset=\count99
+\beamer@showpartnumber=\count100
+\beamer@currentsubsection=\count101
+\beamer@coveringdepth=\count102
+\beamer@sectionadjust=\count103
+\beamer@tocsectionnumber=\count104
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+options.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex
+.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
+.cfg"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
+fcore.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\p
+gfsys.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+rcs.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfutil-common.tex"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfutil-common-lists.tex"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfutil-latex.def"
+\pgfutil@abb=\box34
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfkeys.code.tex"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count112
+\pgfsyssoftpath@bigbuffer@items=\count113
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
+\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+h.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hcalc.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hutil.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hparser.code.tex"
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count114
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.basic.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.trigonometric.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.random.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.comparison.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.base.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.round.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.misc.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfunctions.integerarithmetics.code.tex")))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+hfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count115
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count116
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen157
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen161
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count117
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
+pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\xxc
+olor.sty"
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count118
+\XC@countmixins=\count119
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegs
+hi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
+.sty"
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
+sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count120
+\Hy@pagecounter=\count121
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
+ef"
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count122
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
+.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4383.
+Package hyperref Info: Option `implicit' set `false' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count123
+ ("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count124
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count125
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
+def"
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count126
+\c@bookmark@seq@number=\count127
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
+echeck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+requires.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+compatibility.sty")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+font.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\sa
+nsmathaccent.sty"
+Package: sansmathaccent 2013/03/28
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filehook\filehook
+.sty"
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+translator.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator.sty"
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+misc.sty")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+twoscreens.sty")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+overlay.sty"
+\beamer@argscount=\count128
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count129
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+title.sty")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+section.sty"
+\c@lecture=\count130
+\c@part=\count131
+\c@section=\count132
+\c@subsection=\count133
+\c@subsubsection=\count134
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+frame.sty"
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count135
+\beamer@zoomframecount=\count136
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count137
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count138
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+verbatim.sty"
+\beamer@verbatimfileout=\write4
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+framesize.sty"
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count139
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+framecomponents.sty"
+\beamer@footins=\box44
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+color.sty"
+\beamer@bg@ht=\dimen170
+\beamer@bg@wd=\dimen171
+\beamer@bg@dp=\dimen172
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+notes.sty"
+\beamer@frameboxcopy=\box45
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+toc.sty")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+templates.sty"
+\beamer@sbttoks=\toks30
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+auxtemplates.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+boxes.sty"
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen173
+\bmb@dima=\dimen174
+\bmb@dimb=\dimen175
+\bmb@prevheight=\dimen176
+)
+\beamer@blockheadheight=\dimen177
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+localstructure.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.s
+ty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count140
+\c@table=\count141
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+navigation.sty"
+\beamer@section@min@dim=\dimen178
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+theorems.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen179
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count142
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count143
+\leftroot@=\count144
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count145
+\DOTSCASE@=\count146
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count147
+\c@MaxMatrixCols=\count148
+\dotsspace@=\muskip11
+\c@parentequation=\count149
+\dspbrk@lvl=\count150
+\tag@help=\toks33
+\row@=\count151
+\column@=\count152
+\maxfields@=\count153
+\andhelp@=\toks34
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count154
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbase
+themes.sty"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerthem
+edefault.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerfont
+themedefault.sty")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolo
+rthemedefault.sty")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinne
+rthemedefault.sty"
+\beamer@dima=\dimen188
+\beamer@dimb=\dimen189
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beameroute
+rthemedefault.sty")))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metro
+polis\beamerthememetropolis.sty"
+Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfopts\pgfopts.s
+ty"
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+keys.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gfkeys.code.tex"))
+\pgfopts@list@add@a@toks=\toks43
+\pgfopts@list@add@b@toks=\toks44
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metro
+polis\beamerinnerthememetropolis.sty"
+Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count155
+\calc@Bcount=\count156
+\calc@Adimen=\dimen190
+\calc@Bdimen=\dimen191
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count157
+\calc@Cskip=\skip59
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer
+\tikz.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
+f.sty"
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+moduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box53
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+moduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
+\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
+\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
+for.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.
+sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+h.code.tex"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
+gffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
+h.code.tex")
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
+gflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count158
+\pgfplotmarksize=\dimen196
+)
+\tikz@lastx=\dimen197
+\tikz@lasty=\dimen198
+\tikz@lastxsaved=\dimen199
+\tikz@lastysaved=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count159
+\tikznumberofchildren=\count160
+\tikznumberofcurrentchild=\count161
+\tikz@fig@count=\count162
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+modulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count163
+\pgfmatrixcurrentcolumn=\count164
+\pgf@matrix@numberofcolumns=\count165
+)
+\tikz@expandcount=\count166
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\metropolis@titleseparator@linewidth=\skip60
+\metropolis@progressonsectionpage=\skip61
+\metropolis@progressonsectionpage@linewidth=\skip62
+\metropolis@blocksep=\skip63
+\metropolis@blockadjust=\skip64
+\metropolis@parskip=\skip65
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metro
+polis\beamerouterthememetropolis.sty"
+Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
+\metropolis@frametitle@padding=\skip66
+\metropolis@progressinheadfoot=\skip67
+\metropolis@progressinheadfoot@linewidth=\skip68
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metro
+polis\beamercolorthememetropolis.sty"
+Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metro
+polis\beamerfontthememetropolis.sty"
+Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
+
+
+Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
+aTeX to use the Fira fonts on input line 95.
+
+))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendixnumberbea
+mer\appendixnumberbeamer.sty")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs
+.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen259
+\lightrulewidth=\dimen260
+\cmidrulewidth=\dimen261
+\belowrulesep=\dimen262
+\belowbottomsep=\dimen263
+\aboverulesep=\dimen264
+\abovetopsep=\dimen265
+\cmidrulesep=\dimen266
+\cmidrulekern=\dimen267
+\defaultaddspace=\dimen268
+\@cmidla=\count167
+\@cmidlb=\count168
+\@aboverulesep=\dimen269
+\@belowrulesep=\dimen270
+\@thisruleclass=\count169
+\@lastruleclass=\count170
+\@thisrulewidth=\dimen271
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ccicons\ccicons.s
+ty"
+Package: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.s
+ty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval
+.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
+s.tex"
+\XKV@toks=\toks47
+\XKV@tempa@toks=\toks48
+)
+\XKV@depth=\count171
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplots
+.sty"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.revision.tex")
+Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tscore.code.tex"
+\t@pgfplots@toka=\toks49
+\t@pgfplots@tokb=\toks50
+\t@pgfplots@tokc=\toks51
+\pgfplots@tmpa=\dimen272
+\c@pgfplots@coordindex=\count172
+\c@pgfplots@scanlineindex=\count173
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pg
+fplotssysgeneric.code.tex"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\p
+gfplotslibrary.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgf
+compatib\pgfplotsoldpgfsupp_loader.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
+gflibraryfpu.code.tex")
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgf
+compatib\pgfplotsoldpgfsupp_pgflibraryfpu.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgf
+compatib\pgfplotsoldpgfsupp_pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count174
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgf
+compatib\pgfplotsoldpgfsupp_leq.code.tex"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotsutil.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsliststructure.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsliststructureext.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsarray.code.tex"
+\c@pgfplotsarray@tmp=\count175
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsmatrix.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\numtab
+le\pgfplotstableshared.code.tex"
+\c@pgfplotstable@counta=\count176
+\t@pgfplotstable@a=\toks52
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\listst
+ructure\pgfplotsdeque.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotsbinary.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotsbinary.data.code.tex"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotsutil.verb.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\p
+gflibrarypgfplots.surfshading.code.tex"
+\c@pgfplotslibrarysurf@no=\count177
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pg
+flibrarypgfplots.surfshading.pgfsys-pdftex.def")))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotscolormap.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\p
+gfplotscolor.code.tex"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsstackedplots.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsplothandlers.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsmeshplothandler.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsmeshplotimage.code.tex")))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.scaling.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tscoordprocessing.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.errorbars.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.markers.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+tsticks.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplo
+ts.paths.code.tex")
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
+moduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen273
+\pgfdecoratedremainingdistance=\dimen274
+\pgfdecoratedinputsegmentcompleteddistance=\dimen275
+\pgfdecoratedinputsegmentremainingdistance=\dimen276
+\pgf@decorate@distancetomove=\dimen277
+\pgf@decorate@repeatstate=\count178
+\pgfdecorationsegmentamplitude=\dimen278
+\pgfdecorationsegmentlength=\dimen279
+)
+\tikz@lib@dec@box=\box58
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\d
+ecorations\pgflibrarydecorations.pathmorphing.code.tex"))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\d
+ecorations\pgflibrarydecorations.pathreplacing.code.tex"))
+\pgfplots@numplots=\count179
+\pgfplots@xmin@reg=\dimen280
+\pgfplots@xmax@reg=\dimen281
+\pgfplots@ymin@reg=\dimen282
+\pgfplots@ymax@reg=\dimen283
+\pgfplots@zmin@reg=\dimen284
+\pgfplots@zmax@reg=\dimen285
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
+er\tikz\libraries\tikzlibraryplotmarks.code.tex"
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
+gflibraryplotmarks.code.tex"
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+)))
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (stata.sty
+Package: stata 2013/10/23 v1.34 LaTeX package for Stata code
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\st@box=\box59
+\st@box@wd=\dimen286
+\st@box@ht=\dimen287
+\st@box@dp=\dimen288
+\stsyndent=\skip69
+\streswidth=\skip70
+\st@parindent=\skip71
+\stexamplehskip=\skip72
+\sttechhskip=\skip73
+\st@ttbox@box=\box60
+\st@ttbox@framesep=\dimen289
+\ttboxIndent=\dimen290
+\ttboxWd=\dimen291
+\st@ttbox@boxwd=\dimen292
+\st@box=\box61
+\st@emptywidth=\skip74
+\st@linesize=\skip75
+\st@maxdepth=\skip76
+\st@maxheight=\skip77
+\st@mbdepth=\skip78
+\st@mtdepth=\skip79
+\st@xheight=\skip80
+\st@xwidth=\skip81
+\st@N=\count180
+) ("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 22.
+
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metro
+polis\pgfplotsthemetol.sty"
+Package: pgfplotsthemetol 2017/01/23 PGFplots colors based on Paul Tol's SRON t
+echnical note
+) (stata_workshop_for_govt_officials.aux)
+\openout1 = `stata_workshop_for_govt_officials.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 47.
+
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=14.22636pt
+* \marginparwidth=3.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count181
+\scratchdimen=\dimen293
+\scratchbox=\box62
+\nofMPsegments=\count182
+\nofMParguments=\count183
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count184
+\MPscratchDim=\dimen294
+\MPnumerator=\count185
+\makeMPintoPDFobject=\count186
+\everyMPtoPDFconversion=\toks54
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring ON on input line 47.
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
+sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
+lestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count187
+)
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
+ (stata_workshop_for_govt_officials.out)
+(stata_workshop_for_govt_officials.out)
+\@outlinefile=\write5
+\openout5 = `stata_workshop_for_govt_officials.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 47.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 47.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 47.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 47.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 47.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 47.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 47.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 47.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 47.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 47.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/lmss/bx/n --> OT1/lmr/bx/n on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 47.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 47.
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator-bibliography-dictionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator-environment-dictionary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator-months-dictionary-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator-numbers-dictionary-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator-theorem-dictionary-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.16} (current compat level: 1.9).
+
+(stata_workshop_for_govt_officials.nav)
+<DIME.png, id=28, 87.32625pt x 62.48344pt>
+File: DIME.png Graphic file (type png)
+<use DIME.png>
+Package pdftex.def Info: DIME.png  used on input line 49.
+(pdftex.def)             Requested size: 61.45703pt x 43.97359pt.
+<logo_minagri.png, id=30, 376.40625pt x 407.27156pt>
+File: logo_minagri.png Graphic file (type png)
+<use logo_minagri.png>
+Package pdftex.def Info: logo_minagri.png  used on input line 49.
+(pdftex.def)             Requested size: 46.0916pt x 49.871pt.
+<logo_eu.jpg, id=31, 138.5175pt x 89.58469pt>
+File: logo_eu.jpg Graphic file (type jpg)
+<use logo_eu.jpg>
+Package pdftex.def Info: logo_eu.jpg  used on input line 49.
+(pdftex.def)             Requested size: 61.45703pt x 39.74681pt.
+
+Overfull \vbox (13.79993pt too high) detected at line 49
+ []
+
+[1
+
+{C:/Users/Sakina/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./DIME.png
+> <./logo_minagri.png> <./logo_eu.jpg>]
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 51.
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 51.
+
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 51.
+
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 51.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 51.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 51.
+LaTeX Font Info:    Try loading font information for U+msa on input line 51.
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 51.
+ ("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 51.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 51.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 51.
+ [2
+
+]
+
+LaTeX Font Warning: Font shape `OT1/lmss/bx/sc' undefined
+(Font)              using `OT1/lmss/bx/n' instead on input line 61.
+
+[3
+
+]
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 74.
+
+LaTeX Font Info:    No file OMSlmss.fd. on input line 74.
+
+
+LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 74.
+
+[4
+
+] [5
+
+] [6
+
+] [7
+
+]
+<stata_interface.png, id=78, 1106.63437pt x 767.86874pt>
+File: stata_interface.png Graphic file (type png)
+<use stata_interface.png>
+Package pdftex.def Info: stata_interface.png  used on input line 120.
+(pdftex.def)             Requested size: 276.559pt x 191.89641pt.
+ [8
+
+ <./stata_interface.png>]
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 137.
+
+ [9
+
+]
+<review_window.png, id=91, 372.64218pt x 264.23718pt>
+File: review_window.png Graphic file (type png)
+<use review_window.png>
+Package pdftex.def Info: review_window.png  used on input line 161.
+(pdftex.def)             Requested size: 103.70961pt x 73.53836pt.
+<variable_window.png, id=92, 371.88937pt x 316.93407pt>
+File: variable_window.png Graphic file (type png)
+<use variable_window.png>
+Package pdftex.def Info: variable_window.png  used on input line 161.
+(pdftex.def)             Requested size: 103.70961pt x 88.38306pt.
+ [10
+
+ <./review_window.png> <./variable_window.png>] [11
+
+] [12
+
+] [13
+
+] [14
+
+]
+<open_dataset_menu.png, id=121, 1066.7353pt x 542.025pt>
+File: open_dataset_menu.png Graphic file (type png)
+<use open_dataset_menu.png>
+Package pdftex.def Info: open_dataset_menu.png  used on input line 210.
+(pdftex.def)             Requested size: 276.559pt x 140.51791pt.
+ [15
+
+ <./open_dataset_menu.png>]
+<open_dataset_command.png, id=128, 767.11594pt x 261.97874pt>
+File: open_dataset_command.png Graphic file (type png)
+<use open_dataset_command.png>
+Package pdftex.def Info: open_dataset_command.png  used on input line 226.
+(pdftex.def)             Requested size: 276.559pt x 94.44818pt.
+ [16
+
+ <./open_dataset_command.png>] [17
+
+] [18
+
+] [19
+
+]
+<task1.png, id=153, 780.66656pt x 325.96782pt>
+File: task1.png Graphic file (type png)
+<use task1.png>
+Package pdftex.def Info: task1.png  used on input line 257.
+(pdftex.def)             Requested size: 276.559pt x 115.47815pt.
+ [20
+
+ <./task1.png>] [21
+
+] [22
+
+] [23
+
+]
+[24
+
+] [25
+
+] [26
+
+] [27
+
+]
+<dataset1.png, id=196, 1018.55531pt x 491.58656pt>
+File: dataset1.png Graphic file (type png)
+<use dataset1.png>
+Package pdftex.def Info: dataset1.png  used on input line 325.
+(pdftex.def)             Requested size: 276.559pt x 133.47273pt.
+ [28
+
+ <./dataset1.png>]
+<dataset2.png, id=203, 1018.55531pt x 491.58656pt>
+File: dataset2.png Graphic file (type png)
+<use dataset2.png>
+Package pdftex.def Info: dataset2.png  used on input line 332.
+(pdftex.def)             Requested size: 276.559pt x 133.47273pt.
+ [29
+
+ <./dataset2.png>] [30
+
+]
+LaTeX Font Info:    Try loading font information for OML+lmss on input line 378
+.
+LaTeX Font Info:    No file OMLlmss.fd. on input line 378.
+
+
+LaTeX Font Warning: Font shape `OML/lmss/m/it' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 378.
+
+[31
+
+] [32
+
+] [33
+
+] [34
+
+]
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 394
+.
+
+("C:\Users\Sakina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(stata_workshop_for_govt_officials_1.log.tex) [35
+
+]
+(stata_workshop_for_govt_officials_1.log.tex) [36
+
+]
+(stata_workshop_for_govt_officials_1.log.tex) [37
+
+]
+(stata_workshop_for_govt_officials_2.log.tex)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 413.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 413.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 413.
+
+ [38
+
+]
+(stata_workshop_for_govt_officials_2.log.tex) [39
+
+]
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 423
+.
+ [40
+
+] [41
+
+] [42
+
+] [43
+
+]
+(stata_workshop_for_govt_officials_3.log.tex)
+(stata_workshop_for_govt_officials_4.log.tex) [44
+
+]
+(stata_workshop_for_govt_officials_3.log.tex)
+(stata_workshop_for_govt_officials_4.log.tex) [45
+
+]
+(stata_workshop_for_govt_officials_3.log.tex)
+(stata_workshop_for_govt_officials_4.log.tex) [46
+
+] [47
+
+]
+(stata_workshop_for_govt_officials_5.log.tex) [48
+
+] [49
+
+]
+(stata_workshop_for_govt_officials_6.log.tex) [50
+
+]
+(stata_workshop_for_govt_officials_7.log.tex)
+(stata_workshop_for_govt_officials_8.log.tex) [51
+
+]
+(stata_workshop_for_govt_officials_7.log.tex)
+(stata_workshop_for_govt_officials_8.log.tex) [52
+
+]
+(stata_workshop_for_govt_officials_7.log.tex)
+(stata_workshop_for_govt_officials_8.log.tex) [53
+
+]
+(stata_workshop_for_govt_officials_7.log.tex)
+(stata_workshop_for_govt_officials_8.log.tex) [54
+
+] [55
+
+]
+(stata_workshop_for_govt_officials_9.log.tex) [56
+
+]
+(stata_workshop_for_govt_officials_10.log.tex) [57
+
+]
+(stata_workshop_for_govt_officials_10.log.tex) [58
+
+] [59
+
+] [60
+
+] [61
+
+]
+<dofile.png, id=382, 1044.90375pt x 595.47469pt>
+File: dofile.png Graphic file (type png)
+<use dofile.png>
+Package pdftex.def Info: dofile.png  used on input line 611.
+(pdftex.def)             Requested size: 276.559pt x 157.60922pt.
+
+Overfull \vbox (2.18918pt too high) detected at line 611
+ []
+
+[62
+
+ <./dofile.png>]
+<run.png, id=389, 310.91156pt x 36.88782pt>
+File: run.png Graphic file (type png)
+<use run.png>
+Package pdftex.def Info: run.png  used on input line 623.
+(pdftex.def)             Requested size: 276.559pt x 32.81203pt.
+ [63
+
+ <./run.png>]
+<file_path.png, id=395, 648.92438pt x 164.86594pt>
+File: file_path.png Graphic file (type png)
+<use file_path.png>
+Package pdftex.def Info: file_path.png  used on input line 638.
+(pdftex.def)             Requested size: 276.559pt x 70.26204pt.
+ [64
+
+ <./file_path.png>] [65
+
+]
+(stata_workshop_for_govt_officials_11.log.tex)
+(stata_workshop_for_govt_officials_12.log.tex) [66
+
+] [67
+
+]
+(stata_workshop_for_govt_officials_13.log.tex)
+Overfull \vbox (11.71231pt too high) detected at line 695
+ []
+
+[68
+
+] (stata_workshop_for_govt_officials_14.log.tex)
+(stata_workshop_for_govt_officials_15.log.tex) [69
+
+] [70
+
+] [71
+
+] [72
+
+] [73
+
+]
+[74
+
+] [75
+
+] [76
+
+]
+<error.png, id=463, 485.56406pt x 88.83188pt>
+File: error.png Graphic file (type png)
+<use error.png>
+Package pdftex.def Info: error.png  used on input line 776.
+(pdftex.def)             Requested size: 276.559pt x 50.59402pt.
+ [77
+
+ <./error.png>] [78
+
+]
+<helpfile_save_1.png, id=475, 982.42032pt x 210.7875pt>
+File: helpfile_save_1.png Graphic file (type png)
+<use helpfile_save_1.png>
+Package pdftex.def Info: helpfile_save_1.png  used on input line 799.
+(pdftex.def)             Requested size: 307.28987pt x 65.93204pt.
+<helpfile_save_2.png, id=476, 986.18437pt x 219.82124pt>
+File: helpfile_save_2.png Graphic file (type png)
+<use helpfile_save_2.png>
+Package pdftex.def Info: helpfile_save_2.png  used on input line 799.
+(pdftex.def)             Requested size: 307.28987pt x 68.49606pt.
+ [79
+
+ <./helpfile_save_1.png> <./helpfile_save_2.png>]
+<helpfile_exportexcel_1.png, id=485, 860.46469pt x 207.77625pt>
+File: helpfile_exportexcel_1.png Graphic file (type png)
+<use helpfile_exportexcel_1.png>
+Package pdftex.def Info: helpfile_exportexcel_1.png  used on input line 809.
+(pdftex.def)             Requested size: 307.28987pt x 74.20334pt.
+<helpfile_exportexcel_2.png, id=486, 1001.24063pt x 513.41812pt>
+File: helpfile_exportexcel_2.png Graphic file (type png)
+<use helpfile_exportexcel_2.png>
+Package pdftex.def Info: helpfile_exportexcel_2.png  used on input line 809.
+(pdftex.def)             Requested size: 307.28987pt x 157.57547pt.
+
+Overfull \vbox (48.4041pt too high) detected at line 809
+ []
+
+[80
+
+ <./helpfile_exportexcel_1.png> <./helpfile_exportexcel_2.png>]
+(stata_workshop_for_govt_officials_16.log.tex)
+<error_save_existing.png, id=494, 492.33937pt x 58.71938pt>
+File: error_save_existing.png Graphic file (type png)
+<use error_save_existing.png>
+Package pdftex.def Info: error_save_existing.png  used on input line 826.
+(pdftex.def)             Requested size: 245.83282pt x 29.31927pt.
+ [81
+
+ <./error_save_existing.png>] (stata_workshop_for_govt_officials_16.log.tex)
+File: error_save_existing.png Graphic file (type png)
+<use error_save_existing.png>
+Package pdftex.def Info: error_save_existing.png  used on input line 826.
+(pdftex.def)             Requested size: 245.83282pt x 29.31927pt.
+ [82
+
+]
+(stata_workshop_for_govt_officials_16.log.tex)
+File: error_save_existing.png Graphic file (type png)
+<use error_save_existing.png>
+Package pdftex.def Info: error_save_existing.png  used on input line 826.
+(pdftex.def)             Requested size: 245.83282pt x 29.31927pt.
+ [83
+
+]
+(stata_workshop_for_govt_officials_17.log.tex)
+(stata_workshop_for_govt_officials_18.log.tex) [84
+
+]
+(stata_workshop_for_govt_officials_17.log.tex)
+(stata_workshop_for_govt_officials_18.log.tex) [85
+
+]
+(stata_workshop_for_govt_officials_17.log.tex)
+(stata_workshop_for_govt_officials_18.log.tex) [86
+
+]
+(stata_workshop_for_govt_officials_17.log.tex)
+(stata_workshop_for_govt_officials_18.log.tex) [87
+
+] [88
+
+]
+<reg_table_example.png, id=539, 371.76178pt x 345.4261pt>
+File: reg_table_example.png Graphic file (type png)
+<use reg_table_example.png>
+Package pdftex.def Info: reg_table_example.png  used on input line 862.
+(pdftex.def)             Requested size: 215.10196pt x 199.86763pt.
+
+Overfull \vbox (25.64772pt too high) detected at line 862
+ []
+
+[89
+
+ <./reg_table_example.png>]
+<figure_example_1.png, id=546, 425.36057pt x 295.27457pt>
+File: figure_example_1.png Graphic file (type png)
+<use figure_example_1.png>
+Package pdftex.def Info: figure_example_1.png  used on input line 877.
+(pdftex.def)             Requested size: 170.71236pt x 142.26633pt.
+
+Overfull \hbox (8.50198pt too wide) in paragraph at lines 877--877
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <12> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 877
+.
+[90
+
+ <./figure_example_1.png>]
+<figure_example_2.png, id=553, 420.1296pt x 381.5856pt>
+File: figure_example_2.png Graphic file (type png)
+<use figure_example_2.png>
+Package pdftex.def Info: figure_example_2.png  used on input line 892.
+(pdftex.def)             Requested size: 170.71568pt x 142.26161pt.
+
+Overfull \hbox (1.70532pt too wide) in paragraph at lines 892--892
+[][] 
+ []
+
+[91
+
+ <./figure_example_2.png>]
+<figure_example_3.png, id=561, 854.7132pt x 359.4228pt>
+File: figure_example_3.png Graphic file (type png)
+<use figure_example_3.png>
+Package pdftex.def Info: figure_example_3.png  used on input line 909.
+(pdftex.def)             Requested size: 307.28987pt x 129.22209pt.
+
+Overfull \vbox (25.55733pt too high) detected at line 909
+ []
+
+[92
+
+ <./figure_example_3.png>]
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <9> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 926
+.
+<stata_builtin_graph_functions.png, id=568, 458.1918pt x 382.0674pt>
+File: stata_builtin_graph_functions.png Graphic file (type png)
+<use stata_builtin_graph_functions.png>
+Package pdftex.def Info: stata_builtin_graph_functions.png  used on input line 
+926.
+(pdftex.def)             Requested size: 199.16501pt x 170.71611pt.
+
+Overfull \hbox (14.78922pt too wide) in paragraph at lines 926--926
+[][]  
+ []
+
+[93
+
+ <./stata_builtin_graph_functions.png>] [94
+
+]
+
+pdfTeX warning: pdflatex (file ./boxplot_1.pdf): PDF inclusion: found PDF versi
+on <1.6>, but at most version <1.5> allowed
+<boxplot_1.pdf, id=580, 397.485pt x 289.08pt>
+File: boxplot_1.pdf Graphic file (type pdf)
+<use boxplot_1.pdf>
+Package pdftex.def Info: boxplot_1.pdf  used on input line 942.
+(pdftex.def)             Requested size: 245.83282pt x 178.79105pt.
+
+Overfull \vbox (4.57108pt too high) detected at line 942
+ []
+
+[95
+
+ <./boxplot_1.pdf>] (stata_workshop_for_govt_officials_20.log.tex)
+
+pdfTeX warning: pdflatex (file ./boxplot_2.pdf): PDF inclusion: found PDF versi
+on <1.6>, but at most version <1.5> allowed
+<boxplot_2.pdf, id=596, 397.485pt x 289.08pt>
+File: boxplot_2.pdf Graphic file (type pdf)
+<use boxplot_2.pdf>
+Package pdftex.def Info: boxplot_2.pdf  used on input line 962.
+(pdftex.def)             Requested size: 122.91406pt x 89.39331pt.
+
+Overfull \vbox (1.61896pt too high) detected at line 962
+ []
+
+[96
+
+ <./boxplot_2.pdf>] (stata_workshop_for_govt_officials_20.log.tex)
+File: boxplot_2.pdf Graphic file (type pdf)
+<use boxplot_2.pdf>
+Package pdftex.def Info: boxplot_2.pdf  used on input line 962.
+(pdftex.def)             Requested size: 122.91406pt x 89.39331pt.
+
+Overfull \vbox (1.61896pt too high) detected at line 962
+ []
+
+[97
+
+] (stata_workshop_for_govt_officials_20.log.tex)
+File: boxplot_2.pdf Graphic file (type pdf)
+<use boxplot_2.pdf>
+Package pdftex.def Info: boxplot_2.pdf  used on input line 962.
+(pdftex.def)             Requested size: 122.91406pt x 89.39331pt.
+
+Overfull \vbox (1.61896pt too high) detected at line 962
+ []
+
+[98
+
+] (stata_workshop_for_govt_officials_22.log.tex)
+File: boxplot_1.pdf Graphic file (type pdf)
+<use boxplot_1.pdf>
+Package pdftex.def Info: boxplot_1.pdf  used on input line 977.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+ [99
+
+]
+(stata_workshop_for_govt_officials_22.log.tex)
+File: boxplot_1.pdf Graphic file (type pdf)
+<use boxplot_1.pdf>
+Package pdftex.def Info: boxplot_1.pdf  used on input line 977.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+ [100
+
+] [101
+
+]
+
+pdfTeX warning: pdflatex (file ./hist_1.pdf): PDF inclusion: found PDF version 
+<1.6>, but at most version <1.5> allowed
+<hist_1.pdf, id=638, 397.485pt x 289.08pt>
+File: hist_1.pdf Graphic file (type pdf)
+<use hist_1.pdf>
+Package pdftex.def Info: hist_1.pdf  used on input line 994.
+(pdftex.def)             Requested size: 245.83282pt x 178.79105pt.
+
+Overfull \vbox (6.57108pt too high) detected at line 994
+ []
+
+[102
+
+ <./hist_1.pdf>] (stata_workshop_for_govt_officials_24.log.tex)
+
+pdfTeX warning: pdflatex (file ./hist_2.pdf): PDF inclusion: found PDF version 
+<1.6>, but at most version <1.5> allowed
+<hist_2.pdf, id=654, 397.485pt x 289.08pt>
+File: hist_2.pdf Graphic file (type pdf)
+<use hist_2.pdf>
+Package pdftex.def Info: hist_2.pdf  used on input line 1012.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+
+Overfull \vbox (2.0602pt too high) detected at line 1012
+ []
+
+[103
+
+ <./hist_2.pdf>] (stata_workshop_for_govt_officials_24.log.tex)
+File: hist_2.pdf Graphic file (type pdf)
+<use hist_2.pdf>
+Package pdftex.def Info: hist_2.pdf  used on input line 1012.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+
+Overfull \vbox (2.0602pt too high) detected at line 1012
+ []
+
+[104
+
+] (stata_workshop_for_govt_officials_24.log.tex)
+File: hist_2.pdf Graphic file (type pdf)
+<use hist_2.pdf>
+Package pdftex.def Info: hist_2.pdf  used on input line 1012.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+
+Overfull \vbox (2.0602pt too high) detected at line 1012
+ []
+
+[105
+
+] (stata_workshop_for_govt_officials_26.log.tex
+Overfull \hbox (4.71019pt too wide) in paragraph at lines 2--2
+ []\OT1/lmtt/m/n/8 title("Distribution of the Distance to Drinking Water (metre
+s)")[] 
+ []
+
+) [106
+
+] (stata_workshop_for_govt_officials_26.log.tex
+Overfull \hbox (4.71019pt too wide) in paragraph at lines 2--2
+ []\OT1/lmtt/m/n/8 title("Distribution of the Distance to Drinking Water (metre
+s)")[] 
+ []
+
+) [107
+
+] (stata_workshop_for_govt_officials_26.log.tex
+Overfull \hbox (4.71019pt too wide) in paragraph at lines 2--2
+ []\OT1/lmtt/m/n/8 title("Distribution of the Distance to Drinking Water (metre
+s)")[] 
+ []
+
+) [108
+
+] (stata_workshop_for_govt_officials_26.log.tex
+Overfull \hbox (4.71019pt too wide) in paragraph at lines 2--2
+ []\OT1/lmtt/m/n/8 title("Distribution of the Distance to Drinking Water (metre
+s)")[] 
+ []
+
+) [109
+
+] (stata_workshop_for_govt_officials_27.log.tex)
+
+pdfTeX warning: pdflatex (file ./hist_3.pdf): PDF inclusion: found PDF version 
+<1.6>, but at most version <1.5> allowed
+<hist_3.pdf, id=702, 397.485pt x 289.08pt>
+File: hist_3.pdf Graphic file (type pdf)
+<use hist_3.pdf>
+Package pdftex.def Info: hist_3.pdf  used on input line 1041.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+[110
+
+ <./hist_3.pdf>] (stata_workshop_for_govt_officials_27.log.tex)
+File: hist_3.pdf Graphic file (type pdf)
+<use hist_3.pdf>
+Package pdftex.def Info: hist_3.pdf  used on input line 1041.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+ [111
+
+]
+(stata_workshop_for_govt_officials_27.log.tex)
+File: hist_3.pdf Graphic file (type pdf)
+<use hist_3.pdf>
+Package pdftex.def Info: hist_3.pdf  used on input line 1041.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+ [112
+
+] [113
+
+]
+
+pdfTeX warning: pdflatex (file ./bar_1.pdf): PDF inclusion: found PDF version <
+1.6>, but at most version <1.5> allowed
+<bar_1.pdf, id=733, 397.485pt x 289.08pt>
+File: bar_1.pdf Graphic file (type pdf)
+<use bar_1.pdf>
+Package pdftex.def Info: bar_1.pdf  used on input line 1058.
+(pdftex.def)             Requested size: 245.83282pt x 178.79105pt.
+
+Overfull \vbox (7.47191pt too high) detected at line 1058
+ []
+
+[114
+
+ <./bar_1.pdf>] (stata_workshop_for_govt_officials_30.log.tex)
+(stata_workshop_for_govt_officials_31.log.tex) [115
+
+]
+(stata_workshop_for_govt_officials_30.log.tex)
+(stata_workshop_for_govt_officials_31.log.tex) [116
+
+]
+(stata_workshop_for_govt_officials_30.log.tex)
+(stata_workshop_for_govt_officials_31.log.tex) [117
+
+]
+(stata_workshop_for_govt_officials_30.log.tex)
+(stata_workshop_for_govt_officials_31.log.tex) [118
+
+]
+
+pdfTeX warning: pdflatex (file ./bar_2.pdf): PDF inclusion: found PDF version <
+1.6>, but at most version <1.5> allowed
+<bar_2.pdf, id=770, 397.485pt x 289.08pt>
+File: bar_2.pdf Graphic file (type pdf)
+<use bar_2.pdf>
+Package pdftex.def Info: bar_2.pdf  used on input line 1091.
+(pdftex.def)             Requested size: 245.83282pt x 178.79105pt.
+
+Overfull \vbox (33.00595pt too high) detected at line 1091
+ []
+
+[119
+
+ <./bar_2.pdf>]
+File: bar_2.pdf Graphic file (type pdf)
+<use bar_2.pdf>
+Package pdftex.def Info: bar_2.pdf  used on input line 1091.
+(pdftex.def)             Requested size: 245.83282pt x 178.79105pt.
+
+Overfull \vbox (33.00595pt too high) detected at line 1091
+ []
+
+[120
+
+]
+File: bar_2.pdf Graphic file (type pdf)
+<use bar_2.pdf>
+Package pdftex.def Info: bar_2.pdf  used on input line 1091.
+(pdftex.def)             Requested size: 245.83282pt x 178.79105pt.
+
+Overfull \vbox (33.00595pt too high) detected at line 1091
+ []
+
+[121
+
+] (stata_workshop_for_govt_officials_33.log.tex) [122
+
+]
+(stata_workshop_for_govt_officials_33.log.tex) [123
+
+] [124
+
+]
+
+pdfTeX warning: pdflatex (file ./scatter_1.pdf): PDF inclusion: found PDF versi
+on <1.6>, but at most version <1.5> allowed
+<scatter_1.pdf, id=812, 397.485pt x 289.08pt>
+File: scatter_1.pdf Graphic file (type pdf)
+<use scatter_1.pdf>
+Package pdftex.def Info: scatter_1.pdf  used on input line 1123.
+(pdftex.def)             Requested size: 245.83282pt x 178.79105pt.
+
+Overfull \vbox (23.21626pt too high) detected at line 1123
+ []
+
+[125
+
+ <./scatter_1.pdf>] (stata_workshop_for_govt_officials_35.log.tex)
+
+pdfTeX warning: pdflatex (file ./scatter_2.pdf): PDF inclusion: found PDF versi
+on <1.6>, but at most version <1.5> allowed
+<scatter_2.pdf, id=828, 397.485pt x 289.08pt>
+File: scatter_2.pdf Graphic file (type pdf)
+<use scatter_2.pdf>
+Package pdftex.def Info: scatter_2.pdf  used on input line 1141.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+[126
+
+ <./scatter_2.pdf>] (stata_workshop_for_govt_officials_35.log.tex)
+File: scatter_2.pdf Graphic file (type pdf)
+<use scatter_2.pdf>
+Package pdftex.def Info: scatter_2.pdf  used on input line 1141.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+ [127
+
+]
+(stata_workshop_for_govt_officials_35.log.tex)
+File: scatter_2.pdf Graphic file (type pdf)
+<use scatter_2.pdf>
+Package pdftex.def Info: scatter_2.pdf  used on input line 1141.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+ [128
+
+]
+(stata_workshop_for_govt_officials_37.log.tex)
+
+pdfTeX warning: pdflatex (file ./scatter_3.pdf): PDF inclusion: found PDF versi
+on <1.6>, but at most version <1.5> allowed
+<scatter_3.pdf, id=855, 397.485pt x 289.08pt>
+File: scatter_3.pdf Graphic file (type pdf)
+<use scatter_3.pdf>
+Package pdftex.def Info: scatter_3.pdf  used on input line 1161.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+
+Overfull \vbox (8.66402pt too high) detected at line 1161
+ []
+
+[129
+
+ <./scatter_3.pdf>] (stata_workshop_for_govt_officials_37.log.tex)
+File: scatter_3.pdf Graphic file (type pdf)
+<use scatter_3.pdf>
+Package pdftex.def Info: scatter_3.pdf  used on input line 1161.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+
+Overfull \vbox (8.66402pt too high) detected at line 1161
+ []
+
+[130
+
+] (stata_workshop_for_govt_officials_37.log.tex)
+File: scatter_3.pdf Graphic file (type pdf)
+<use scatter_3.pdf>
+Package pdftex.def Info: scatter_3.pdf  used on input line 1161.
+(pdftex.def)             Requested size: 153.64493pt x 111.74385pt.
+
+Overfull \vbox (8.66402pt too high) detected at line 1161
+ []
+
+[131
+
+] (stata_workshop_for_govt_officials_39.log.tex
+Overfull \hbox (1.71016pt too wide) in paragraph at lines 5--5
+ []        \OT1/lmtt/m/n/8 title("Is the main drinking water also the closest s
+ource?")[] 
+ []
+
+) [132
+
+] (stata_workshop_for_govt_officials_39.log.tex
+Overfull \hbox (1.71016pt too wide) in paragraph at lines 5--5
+ []        \OT1/lmtt/m/n/8 title("Is the main drinking water also the closest s
+ource?")[] 
+ []
+
+) [133
+
+] [134
+
+] (stata_workshop_for_govt_officials_40.log.tex) [135
+
+]
+(stata_workshop_for_govt_officials_40.log.tex) [136
+
+]
+(stata_workshop_for_govt_officials_41.log.tex) [137
+
+]
+(stata_workshop_for_govt_officials_41.log.tex) [138
+
+]
+(stata_workshop_for_govt_officials_41.log.tex) [139
+
+]
+
+pdfTeX warning: pdflatex (file ./combined.pdf): PDF inclusion: found PDF versio
+n <1.6>, but at most version <1.5> allowed
+<combined.pdf, id=923, 397.485pt x 289.08pt>
+File: combined.pdf Graphic file (type pdf)
+<use combined.pdf>
+Package pdftex.def Info: combined.pdf  used on input line 1219.
+(pdftex.def)             Requested size: 184.3758pt x 134.09439pt.
+[140
+
+ <./combined.pdf>]
+File: combined.pdf Graphic file (type pdf)
+<use combined.pdf>
+Package pdftex.def Info: combined.pdf  used on input line 1219.
+(pdftex.def)             Requested size: 184.3758pt x 134.09439pt.
+ [141
+
+]
+File: combined.pdf Graphic file (type pdf)
+<use combined.pdf>
+Package pdftex.def Info: combined.pdf  used on input line 1219.
+(pdftex.def)             Requested size: 184.3758pt x 134.09439pt.
+ [142
+
+]
+(stata_workshop_for_govt_officials_42.log.tex) [143
+
+]
+(stata_workshop_for_govt_officials_42.log.tex) [144
+
+]
+(stata_workshop_for_govt_officials_42.log.tex) [145
+
+] [146
+
+]
+
+pdfTeX warning: pdflatex (file ./combined_better.pdf): PDF inclusion: found PDF
+ version <1.6>, but at most version <1.5> allowed
+<combined_better.pdf, id=970, 397.485pt x 289.08pt>
+File: combined_better.pdf Graphic file (type pdf)
+<use combined_better.pdf>
+Package pdftex.def Info: combined_better.pdf  used on input line 1253.
+(pdftex.def)             Requested size: 215.10196pt x 156.4405pt.
+[147
+
+ <./combined_better.pdf>] [148
+
+]
+(stata_workshop_for_govt_officials_44.log.tex) [149
+
+]
+(stata_workshop_for_govt_officials_45.log.tex
+Overfull \hbox (1.71016pt too wide) in paragraph at lines 3--3
+ []\OT1/lmtt/m/n/8 title("Distribution of the Distance to Drinking Water (metre
+s)", ///[] 
+ []
+
+) [150
+
+] (stata_workshop_for_govt_officials_46.log.tex) [151
+
+]
+(stata_workshop_for_govt_officials_47.log.tex
+Overfull \hbox (1.71016pt too wide) in paragraph at lines 11--11
+ []\OT1/lmtt/m/n/8 title("Is the main drinking water source also the closest on
+e?", ///[] 
+ []
+
+) [152
+
+] (stata_workshop_for_govt_officials_48.log.tex
+Overfull \hbox (5.96016pt too wide) in paragraph at lines 7--7
+ []        \OT1/lmtt/m/n/8 title("Statistics on the Distance to Drinking Water 
+Sources")[] 
+ []
+
+) [153
+
+] (stata_workshop_for_govt_officials_49.log.tex) [154
+
+]
+(stata_workshop_for_govt_officials_50.log.tex) [155
+
+] [156
+
+] [157
+
+] [158
+
+] [159
+
+]
+(stata_workshop_for_govt_officials_51.log.tex
+LaTeX Font Info:    Font shape `OT1/lmtt/bx/n' in size <8> not available
+(Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 3.
+)
+(stata_workshop_for_govt_officials_52.log.tex) [160
+
+]
+(stata_workshop_for_govt_officials_51.log.tex)
+(stata_workshop_for_govt_officials_52.log.tex) [161
+
+]
+(stata_workshop_for_govt_officials_51.log.tex)
+(stata_workshop_for_govt_officials_52.log.tex) [162
+
+]
+(stata_workshop_for_govt_officials_51.log.tex)
+(stata_workshop_for_govt_officials_52.log.tex) [163
+
+]
+(stata_workshop_for_govt_officials_51.log.tex)
+(stata_workshop_for_govt_officials_52.log.tex) [164
+
+] [165
+
+]
+(stata_workshop_for_govt_officials_53.log.tex)
+(stata_workshop_for_govt_officials_54.log.tex) [166
+
+]
+(stata_workshop_for_govt_officials_55.log.tex) [167
+
+]
+<dime_resource_1.png, id=1091, 236.082pt x 354.123pt>
+File: dime_resource_1.png Graphic file (type png)
+<use dime_resource_1.png>
+Package pdftex.def Info: dime_resource_1.png  used on input line 1450.
+(pdftex.def)             Requested size: 99.58243pt x 142.26808pt.
+<dime_resource_2.png, id=1093, 425.4294pt x 340.49356pt>
+File: dime_resource_2.png Graphic file (type png)
+<use dime_resource_2.png>
+Package pdftex.def Info: dime_resource_2.png  used on input line 1450.
+(pdftex.def)             Requested size: 170.71402pt x 142.26335pt.
+ [168
+
+ <./dime_resource_1.png> <./dime_resource_2.png>] [169
+
+]
+\tf@nav=\write6
+\openout6 = `stata_workshop_for_govt_officials.nav'.
+
+\tf@toc=\write7
+\openout7 = `stata_workshop_for_govt_officials.toc'.
+
+\tf@snm=\write8
+\openout8 = `stata_workshop_for_govt_officials.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1462.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1462.
+ (stata_workshop_for_govt_officials.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1462.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1462.
+
+Package rerunfilecheck Info: File `stata_workshop_for_govt_officials.out' has n
+ot changed.
+(rerunfilecheck)             Checksum: 4CA990D1F472AF1E822D57D39627B7C6;280.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 31843 strings out of 492973
+ 785441 string characters out of 3126249
+ 976120 words of memory out of 3000000
+ 34421 multiletter control sequences out of 15000+200000
+ 75260 words of font info for 67 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,13n,98p,1924b,728s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rmtt
+.enc}{C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-r
+m.enc}{C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-
+mathsy.enc}<C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi9.pfb><C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sakina/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Sakina/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/Sakina/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/Sakina/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/Saki
+na/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Users/
+Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbo10.pfb><C:
+/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.
+pfb><C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lm
+sso10.pfb><C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/lm/lmsso9.pfb><C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmsy10.pfb><C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmsy9.pfb><C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/lm/lmtk10.pfb><C:/Users/Sakina/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/lm/lmtt8.pfb><C:/Users/Sakina/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/lm/lmtt9.pfb>
+Output written on stata_workshop_for_govt_officials.pdf (169 pages, 4493445 byt
+es).
+PDF statistics:
+ 1244 PDF objects out of 1440 (max. 8388607)
+ 343 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+
