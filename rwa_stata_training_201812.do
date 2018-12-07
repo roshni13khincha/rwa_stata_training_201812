@@ -1,6 +1,46 @@
+********************************************************************************
+*				STATA WORKSHOP - DECEMBER 2018
+* 
+* Created by: Roshni Khincha
+********************************************************************************
+
+********************************************************************************
+* 							Set up
+********************************************************************************
+
+	clear
+
+	* User identification
+	if "`c(username)'" == "roshn" {
+		global dropbox	"C:\Users\roshn\Dropbox"
+		global github	"C:\Users\roshn\Documents\GitHub"
+		}
 		
+		
+	if "`c(username)'" == "WB528092" {
+		global dropbox	"C:\Users\WB528092\Dropbox"
+		global github	"C:\Users\WB528092\Documents\GitHub"
+		}
+		
+		
+	* File path
+	global data "$dropbox\minagri_stata_training_aug2018\data"
+	
+	* packages
+	global install		0 // Turn to 1 here if you want to install
+	if $install == 1 {
+		ssc install texdoc, replace
+		net from http://www.stata-journal.com/production
+		net install sjlatex, replace
+		}
+		
+********************************************************************************
+* 							Write the tex file
+********************************************************************************
+
+
 	* Initiate the latex doc
-	texdoc init "$script\stata_workshop_for_govt_officials", replace ///
+	texdoc init "$script/rwa_stata_training_201812", replace ///
 		gropts(optargs(width=0.8\textwidth))
 	
 	/***
@@ -25,8 +65,8 @@
 
 	\title{Stata Workshop} %% that will be typeset on the
 	\subtitle{} %% title page.
-	\author{Roshni Khincha and Sakina Shibuya \\ DIME, World Bank}
-	\date{August, 2018}
+	\author{Roshni Khincha \\ DIME, World Bank}
+	\date{December, 2018}
 
 	\titlegraphic{%
 		\includegraphics[width=.2\textwidth]{DIME}\hfill % I think I should probably ask for a better image for this thing....
@@ -1810,14 +1850,18 @@
 	
 	\begin{frame}
 		\begin{center}
-			\Large Murakoze neza! \\
+			\Large Thank you! \\
 			\vspace{10mm}
-			\normalsize Sakina Shibuya and Roshni Khincha  \\
-			\small (\url{sshibuya@worldbank.org})
+			\normalsize Roshni Khincha  \\
 			\small (\url{rkhincha@worldbank.org})			
 		\end{center}
 	\end{frame}	
 	
 	\end{document}
 	***/
+	
+********************************************************************************
+* 							Run the tex file
+********************************************************************************
+	shell pdflatex "$script/rwa_stata_training_201812.tex"
 
